@@ -1,0 +1,9 @@
+Input file for Backwater calc
+100.0   b
+6.0     h0
+2000.0  dx
+500.0   Q  discharge
+50.0    C
+0.0001  I  slope
+F       C for iteration until convergence, F for Fixed number of points
+100     Nx number of steps
